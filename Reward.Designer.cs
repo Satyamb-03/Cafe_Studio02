@@ -73,7 +73,7 @@
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(936, 594);
+            this.button5.Location = new System.Drawing.Point(1049, 371);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(75, 83);
             this.button5.TabIndex = 4;
@@ -84,6 +84,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::Cafe_Studio02.Properties.Resources.C3;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1246, 840);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
@@ -92,6 +94,7 @@
             this.Controls.Add(this.button1);
             this.Name = "Reward";
             this.Text = "Reward";
+            this.Load += new System.EventHandler(this.Reward_Load);
             this.ResumeLayout(false);
 
         }
