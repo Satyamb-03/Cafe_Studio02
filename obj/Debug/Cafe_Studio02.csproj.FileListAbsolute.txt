@@ -9,3 +9,15 @@ C:\Users\malli\source\cafe_tannu\obj\Debug\Cafe_Studio02.csproj.GenerateResource
 C:\Users\malli\source\cafe_tannu\obj\Debug\Cafe_Studio02.csproj.CoreCompileInputs.cache
 C:\Users\malli\source\cafe_tannu\obj\Debug\Cafe_Studio02.exe
 C:\Users\malli\source\cafe_tannu\obj\Debug\Cafe_Studio02.pdb
+C:\Users\Admin\source\Cafe_Studio02\bin\Debug\Cafe_Studio02.exe.config
+C:\Users\Admin\source\Cafe_Studio02\bin\Debug\Cafe_Studio02.exe
+C:\Users\Admin\source\Cafe_Studio02\bin\Debug\Cafe_Studio02.pdb
+C:\Users\Admin\source\Cafe_Studio02\obj\Debug\Cafe_Studio02.csproj.AssemblyReference.cache
+C:\Users\Admin\source\Cafe_Studio02\obj\Debug\Cafe_Studio02.Form1.resources
+C:\Users\Admin\source\Cafe_Studio02\obj\Debug\Cafe_Studio02.Form2.resources
+C:\Users\Admin\source\Cafe_Studio02\obj\Debug\Cafe_Studio02.Properties.Resources.resources
+C:\Users\Admin\source\Cafe_Studio02\obj\Debug\Cafe_Studio02.Reward.resources
+C:\Users\Admin\source\Cafe_Studio02\obj\Debug\Cafe_Studio02.csproj.GenerateResource.cache
+C:\Users\Admin\source\Cafe_Studio02\obj\Debug\Cafe_Studio02.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\Cafe_Studio02\obj\Debug\Cafe_Studio02.exe
+C:\Users\Admin\source\Cafe_Studio02\obj\Debug\Cafe_Studio02.pdb
