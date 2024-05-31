@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 namespace Cafe_Studio02
 {
-    public partial class Form5 : Form
+    public partial class Form6 : Form
     {
-        public Form5()
+        public Form6()
         {
             InitializeComponent();
         }
 
-        private void Form5_Load(object sender, EventArgs e)
+        private void Form6_Load(object sender, EventArgs e)
         {
 
         }
