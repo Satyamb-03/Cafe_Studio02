@@ -21,3 +21,15 @@ C:\Users\Admin\source\Cafe_Studio02\obj\Debug\Cafe_Studio02.csproj.GenerateResou
 C:\Users\Admin\source\Cafe_Studio02\obj\Debug\Cafe_Studio02.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\Cafe_Studio02\obj\Debug\Cafe_Studio02.exe
 C:\Users\Admin\source\Cafe_Studio02\obj\Debug\Cafe_Studio02.pdb
+C:\Users\pc\source\Cafe_Ramandeep\bin\Debug\Cafe_Studio02.exe.config
+C:\Users\pc\source\Cafe_Ramandeep\bin\Debug\Cafe_Studio02.exe
+C:\Users\pc\source\Cafe_Ramandeep\bin\Debug\Cafe_Studio02.pdb
+C:\Users\pc\source\Cafe_Ramandeep\obj\Debug\Cafe_Studio02.csproj.AssemblyReference.cache
+C:\Users\pc\source\Cafe_Ramandeep\obj\Debug\Cafe_Studio02.Form1.resources
+C:\Users\pc\source\Cafe_Ramandeep\obj\Debug\Cafe_Studio02.Menu.resources
+C:\Users\pc\source\Cafe_Ramandeep\obj\Debug\Cafe_Studio02.Properties.Resources.resources
+C:\Users\pc\source\Cafe_Ramandeep\obj\Debug\Cafe_Studio02.Reward.resources
+C:\Users\pc\source\Cafe_Ramandeep\obj\Debug\Cafe_Studio02.csproj.GenerateResource.cache
+C:\Users\pc\source\Cafe_Ramandeep\obj\Debug\Cafe_Studio02.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\Cafe_Ramandeep\obj\Debug\Cafe_Studio02.exe
+C:\Users\pc\source\Cafe_Ramandeep\obj\Debug\Cafe_Studio02.pdb
