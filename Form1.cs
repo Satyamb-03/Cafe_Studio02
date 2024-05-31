@@ -25,7 +25,7 @@ namespace Cafe_Studio02
         private void button1_Click(object sender, EventArgs e)
         {
             
-            Form2 form2 = new Form2();
+            Menu form2 = new Menu();
 
             // Show the new form
             form2.Show();
