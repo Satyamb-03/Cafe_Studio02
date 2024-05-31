@@ -16,5 +16,10 @@ namespace Cafe_Studio02
         {
             InitializeComponent();
         }
+
+        private void Reward_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
