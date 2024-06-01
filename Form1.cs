@@ -22,17 +22,38 @@ namespace Cafe_Studio02
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-             
-        }
-
         private void button2_Click(object sender, EventArgs e)
         {
             Menu form2 = new Menu();
 
             // Show the new form
             form2.Show();
+
+            Program.SwitchForm(this, form2);
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form4 form4 = new Form4();
+            form4.Show();
+            
+            Program.SwitchForm(this, form4);
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form7 form7= new Form7();
+            form7.Show();
+
+            Program.SwitchForm(this, form7);
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
