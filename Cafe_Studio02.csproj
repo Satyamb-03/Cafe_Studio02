@@ -149,5 +149,23 @@
   <ItemGroup>
     <None Include="Resources\dilmahtea.jpeg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cof3.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cof31.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cof32.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cof33.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cof 5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cof 51.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
