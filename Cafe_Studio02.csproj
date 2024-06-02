@@ -84,6 +84,12 @@
       <DependentUpon>Promotional.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
     <Compile Include="Reward.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -115,6 +121,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Reward.resx">
       <DependentUpon>Reward.cs</DependentUpon>
     </EmbeddedResource>
@@ -133,30 +142,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\C3.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Screenshot 2024-05-31 162512.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Screenshot 2024-05-31 162602.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Screenshot 2024-05-31 162636.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Screenshot 2024-05-31 162732.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Screenshot 2024-05-31 162817.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\Screenshot 2024-05-31 162412.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\kidsfluffy.jpeg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\dilmahtea.jpeg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\c 1.jpg" />
