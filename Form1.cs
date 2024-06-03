@@ -55,5 +55,13 @@ namespace Cafe_Studio02
         {
 
         }
+
+        private void Rewards_Click(object sender, EventArgs e)
+        {
+            Reward form=new Reward();
+            form.Show();
+
+            Program.SwitchForm(this, form); 
+        }
     }
 }
