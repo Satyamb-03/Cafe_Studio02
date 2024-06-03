@@ -39,7 +39,7 @@ namespace Cafe_Studio02
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
-
+            
         }
 
         private void label4_Click(object sender, EventArgs e)
@@ -49,10 +49,17 @@ namespace Cafe_Studio02
 
         private void label5_Click(object sender, EventArgs e)
         {
-
+            // Open the Register form
+            Register registerForm = new Register();
+            registerForm.Show();
         }
 
         private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void login_Load(object sender, EventArgs e)
         {
 
         }

@@ -46,7 +46,7 @@ namespace Cafe_Studio02
 
         private void button3_Click(object sender, EventArgs e)
         {
-            Form4 form4 = new Form4();
+            login form4 = new login();
             form4.Show();
 
             Program.SwitchForm(this, form4);

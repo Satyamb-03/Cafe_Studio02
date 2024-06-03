@@ -60,9 +60,10 @@
             // Home
             // 
             this.Home.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Home.Location = new System.Drawing.Point(22, 12);
+            this.Home.Location = new System.Drawing.Point(16, 10);
+            this.Home.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Home.Name = "Home";
-            this.Home.Size = new System.Drawing.Size(75, 23);
+            this.Home.Size = new System.Drawing.Size(56, 19);
             this.Home.TabIndex = 0;
             this.Home.Text = "Home";
             this.Home.UseVisualStyleBackColor = true;
@@ -71,9 +72,10 @@
             // Promotional
             // 
             this.Promotional.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Promotional.Location = new System.Drawing.Point(121, 10);
+            this.Promotional.Location = new System.Drawing.Point(91, 8);
+            this.Promotional.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Promotional.Name = "Promotional";
-            this.Promotional.Size = new System.Drawing.Size(115, 23);
+            this.Promotional.Size = new System.Drawing.Size(86, 19);
             this.Promotional.TabIndex = 1;
             this.Promotional.Text = "Promotional";
             this.Promotional.UseVisualStyleBackColor = true;
@@ -82,89 +84,90 @@
             // 
             this.Order.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.Order.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Order.Location = new System.Drawing.Point(265, 11);
+            this.Order.Location = new System.Drawing.Point(199, 9);
+            this.Order.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Order.Name = "Order";
-            this.Order.Size = new System.Drawing.Size(88, 23);
+            this.Order.Size = new System.Drawing.Size(66, 19);
             this.Order.TabIndex = 2;
             this.Order.Text = "Order";
             this.Order.UseVisualStyleBackColor = false;
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::Cafe_Studio02.Properties.Resources.Screenshot_2024_05_31_162512;
-            this.pictureBox1.Location = new System.Drawing.Point(33, 58);
+            this.pictureBox1.Location = new System.Drawing.Point(25, 33);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(89, 112);
+            this.pictureBox1.Size = new System.Drawing.Size(67, 91);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 3;
             this.pictureBox1.TabStop = false;
             // 
             // pictureBox2
             // 
-            this.pictureBox2.Image = global::Cafe_Studio02.Properties.Resources.Screenshot_2024_05_31_162602;
-            this.pictureBox2.Location = new System.Drawing.Point(188, 58);
+            this.pictureBox2.Location = new System.Drawing.Point(141, 47);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(100, 112);
+            this.pictureBox2.Size = new System.Drawing.Size(75, 91);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 4;
             this.pictureBox2.TabStop = false;
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Image = global::Cafe_Studio02.Properties.Resources.Screenshot_2024_05_31_162636;
-            this.pictureBox3.Location = new System.Drawing.Point(372, 58);
+            this.pictureBox3.Location = new System.Drawing.Point(279, 47);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(100, 112);
+            this.pictureBox3.Size = new System.Drawing.Size(75, 91);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox3.TabIndex = 5;
             this.pictureBox3.TabStop = false;
             // 
             // pictureBox4
             // 
-            this.pictureBox4.Image = global::Cafe_Studio02.Properties.Resources.Screenshot_2024_05_31_162732;
-            this.pictureBox4.Location = new System.Drawing.Point(543, 58);
+            this.pictureBox4.Location = new System.Drawing.Point(407, 47);
+            this.pictureBox4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(100, 112);
+            this.pictureBox4.Size = new System.Drawing.Size(75, 91);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox4.TabIndex = 6;
             this.pictureBox4.TabStop = false;
             // 
             // pictureBox5
             // 
-            this.pictureBox5.Image = global::Cafe_Studio02.Properties.Resources.Screenshot_2024_05_31_162817;
-            this.pictureBox5.Location = new System.Drawing.Point(33, 223);
+            this.pictureBox5.Location = new System.Drawing.Point(25, 181);
+            this.pictureBox5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(100, 123);
+            this.pictureBox5.Size = new System.Drawing.Size(75, 100);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox5.TabIndex = 7;
             this.pictureBox5.TabStop = false;
             // 
             // pictureBox6
             // 
-            this.pictureBox6.Image = global::Cafe_Studio02.Properties.Resources.Screenshot_2024_05_31_162412;
-            this.pictureBox6.Location = new System.Drawing.Point(188, 223);
+            this.pictureBox6.Location = new System.Drawing.Point(141, 181);
+            this.pictureBox6.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(100, 123);
+            this.pictureBox6.Size = new System.Drawing.Size(75, 100);
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox6.TabIndex = 8;
             this.pictureBox6.TabStop = false;
             // 
             // pictureBox7
             // 
-            this.pictureBox7.Image = global::Cafe_Studio02.Properties.Resources.dilmahtea;
-            this.pictureBox7.Location = new System.Drawing.Point(372, 223);
+            this.pictureBox7.Location = new System.Drawing.Point(279, 181);
+            this.pictureBox7.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(100, 123);
+            this.pictureBox7.Size = new System.Drawing.Size(75, 100);
             this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox7.TabIndex = 9;
             this.pictureBox7.TabStop = false;
             // 
             // pictureBox8
             // 
-            this.pictureBox8.Image = global::Cafe_Studio02.Properties.Resources.kidsfluffy;
-            this.pictureBox8.Location = new System.Drawing.Point(543, 223);
+            this.pictureBox8.Location = new System.Drawing.Point(407, 181);
+            this.pictureBox8.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox8.Name = "pictureBox8";
-            this.pictureBox8.Size = new System.Drawing.Size(100, 123);
+            this.pictureBox8.Size = new System.Drawing.Size(75, 100);
             this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox8.TabIndex = 10;
             this.pictureBox8.TabStop = false;
@@ -173,9 +176,10 @@
             // 
             this.latte.AutoSize = true;
             this.latte.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.latte.Location = new System.Drawing.Point(185, 177);
+            this.latte.Location = new System.Drawing.Point(139, 144);
+            this.latte.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.latte.Name = "latte";
-            this.latte.Size = new System.Drawing.Size(85, 18);
+            this.latte.Size = new System.Drawing.Size(72, 15);
             this.latte.TabIndex = 11;
             this.latte.Text = "Cafe Latte";
             // 
@@ -185,9 +189,10 @@
             this.Cappuccino.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.Cappuccino.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.Cappuccino.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Cappuccino.Location = new System.Drawing.Point(25, 177);
+            this.Cappuccino.Location = new System.Drawing.Point(19, 144);
+            this.Cappuccino.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.Cappuccino.Name = "Cappuccino";
-            this.Cappuccino.Size = new System.Drawing.Size(99, 20);
+            this.Cappuccino.Size = new System.Drawing.Size(84, 17);
             this.Cappuccino.TabIndex = 12;
             this.Cappuccino.Text = "Cappuccino";
             // 
@@ -195,9 +200,10 @@
             // 
             this.hChocolate.AutoSize = true;
             this.hChocolate.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.hChocolate.Location = new System.Drawing.Point(369, 177);
+            this.hChocolate.Location = new System.Drawing.Point(277, 144);
+            this.hChocolate.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.hChocolate.Name = "hChocolate";
-            this.hChocolate.Size = new System.Drawing.Size(117, 18);
+            this.hChocolate.Size = new System.Drawing.Size(97, 15);
             this.hChocolate.TabIndex = 13;
             this.hChocolate.Text = "Hot Chocolate";
             // 
@@ -205,9 +211,10 @@
             // 
             this.chaiLatte.AutoSize = true;
             this.chaiLatte.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.chaiLatte.Location = new System.Drawing.Point(540, 177);
+            this.chaiLatte.Location = new System.Drawing.Point(405, 144);
+            this.chaiLatte.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.chaiLatte.Name = "chaiLatte";
-            this.chaiLatte.Size = new System.Drawing.Size(84, 18);
+            this.chaiLatte.Size = new System.Drawing.Size(72, 15);
             this.chaiLatte.TabIndex = 14;
             this.chaiLatte.Text = "Chai Latte";
             // 
@@ -215,9 +222,10 @@
             // 
             this.longBlack.AutoSize = true;
             this.longBlack.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.longBlack.Location = new System.Drawing.Point(32, 360);
+            this.longBlack.Location = new System.Drawing.Point(24, 292);
+            this.longBlack.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.longBlack.Name = "longBlack";
-            this.longBlack.Size = new System.Drawing.Size(92, 18);
+            this.longBlack.Size = new System.Drawing.Size(78, 15);
             this.longBlack.TabIndex = 15;
             this.longBlack.Text = "Long Black";
             // 
@@ -225,9 +233,10 @@
             // 
             this.flatWhite.AutoSize = true;
             this.flatWhite.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.flatWhite.Location = new System.Drawing.Point(185, 360);
+            this.flatWhite.Location = new System.Drawing.Point(139, 292);
+            this.flatWhite.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.flatWhite.Name = "flatWhite";
-            this.flatWhite.Size = new System.Drawing.Size(84, 18);
+            this.flatWhite.Size = new System.Drawing.Size(71, 15);
             this.flatWhite.TabIndex = 16;
             this.flatWhite.Text = "Flat White";
             // 
@@ -235,9 +244,10 @@
             // 
             this.dilmahTea.AutoSize = true;
             this.dilmahTea.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dilmahTea.Location = new System.Drawing.Point(369, 362);
+            this.dilmahTea.Location = new System.Drawing.Point(277, 294);
+            this.dilmahTea.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.dilmahTea.Name = "dilmahTea";
-            this.dilmahTea.Size = new System.Drawing.Size(93, 18);
+            this.dilmahTea.Size = new System.Drawing.Size(81, 15);
             this.dilmahTea.TabIndex = 17;
             this.dilmahTea.Text = "Dilmah Tea";
             // 
@@ -245,20 +255,21 @@
             // 
             this.kidsFluffy.AutoSize = true;
             this.kidsFluffy.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.kidsFluffy.Location = new System.Drawing.Point(540, 360);
+            this.kidsFluffy.Location = new System.Drawing.Point(405, 292);
+            this.kidsFluffy.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.kidsFluffy.Name = "kidsFluffy";
-            this.kidsFluffy.Size = new System.Drawing.Size(87, 18);
+            this.kidsFluffy.Size = new System.Drawing.Size(73, 15);
             this.kidsFluffy.TabIndex = 18;
             this.kidsFluffy.Text = "Kids Fluffy";
             this.kidsFluffy.Click += new System.EventHandler(this.label8_Click);
             // 
             // Menu
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Cafe_Studio02.Properties.Resources.C3;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(789, 440);
+            this.ClientSize = new System.Drawing.Size(592, 358);
             this.Controls.Add(this.kidsFluffy);
             this.Controls.Add(this.dilmahTea);
             this.Controls.Add(this.flatWhite);
@@ -278,6 +289,7 @@
             this.Controls.Add(this.Order);
             this.Controls.Add(this.Promotional);
             this.Controls.Add(this.Home);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Menu";
             this.Text = "Menu";
             this.Load += new System.EventHandler(this.Form2_Load);
