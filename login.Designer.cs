@@ -141,7 +141,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::Cafe_Studio02.Properties.Resources.c_1;
+            this.BackgroundImage = global::Cafe_Studio02.Properties.Resources.C3;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(541, 450);
             this.Controls.Add(this.loginbutton);
