@@ -103,6 +103,16 @@ namespace Cafe_Studio02.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap cof_back {
+            get {
+                object obj = ResourceManager.GetObject("cof back", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap cof3 {
             get {
                 object obj = ResourceManager.GetObject("cof3", resourceCulture);

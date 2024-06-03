@@ -230,6 +230,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Info;
+            this.BackgroundImage = global::Cafe_Studio02.Properties.Resources.cof_back;
             this.ClientSize = new System.Drawing.Size(1518, 848);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label6);
