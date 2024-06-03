@@ -102,6 +102,9 @@
     <EmbeddedResource Include="login.resx">
       <DependentUpon>login.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Promotional.resx">
+      <DependentUpon>Promotional.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -139,6 +142,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="c 1.jpg" />
+    <None Include="Resources\seasonal delicious 3.jpeg" />
+    <None Include="Resources\Seasonal delicious2 .jpeg" />
+    <None Include="Resources\Seasonal delicious.jpeg" />
+    <None Include="Resources\seasonal delicious4.jpeg" />
     <None Include="Resources\buy 9 get.jpeg" />
     <None Include="Resources\cof3.jpeg" />
     <None Include="Resources\cof 5.jpg" />

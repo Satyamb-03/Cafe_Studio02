@@ -1,78 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\malli\\source\\Tannu 2\\",
+  "WorkspaceRootPath": "C:\\Users\\malli\\source\\Tannu 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|c:\\users\\malli\\source\\tannu 2\\reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|c:\\users\\malli\\source\\tannu 3\\promotional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:promotional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 3\\reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 2\\reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 3\\reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 3\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 2\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 3\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 2\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 3\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 2\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 3\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 2\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 3\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 3\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 3\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 2\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 3\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 2\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 3\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 2\\form2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 3\\form2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:form2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 2\\login.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 3\\login.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:login.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Tannu 2\\promotional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:promotional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -93,16 +93,12 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "login.cs",
-              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 2\\login.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 3\\login.cs",
               "RelativeDocumentMoniker": "login.cs",
-              "ToolTip": "C:\\Users\\malli\\source\\Tannu 2\\login.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\Tannu 3\\login.cs",
               "RelativeToolTip": "login.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -110,11 +106,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 2\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 3\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\malli\\source\\Tannu 2\\Form1.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\Tannu 3\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -122,11 +118,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Form7.cs",
-              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 2\\Form7.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 3\\Form7.cs",
               "RelativeDocumentMoniker": "Form7.cs",
-              "ToolTip": "C:\\Users\\malli\\source\\Tannu 2\\Form7.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\Tannu 3\\Form7.cs",
               "RelativeToolTip": "Form7.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAAEwDEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -134,22 +130,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 2\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 3\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
               "ToolTip": "C:\\Users\\malli\\source\\Tannu 2\\Form2.cs [Design]",
-              "RelativeToolTip": "Form2.cs [Design]",
+              "RelativeToolTip": "..\\Tannu 2\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T23:50:56.898Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 2\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 3\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\malli\\source\\Tannu 2\\Form2.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\Tannu 3\\Form2.cs",
               "RelativeToolTip": "Form2.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -157,11 +153,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Form2.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 2\\Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 3\\Form2.Designer.cs",
               "RelativeDocumentMoniker": "Form2.Designer.cs",
-              "ToolTip": "C:\\Users\\malli\\source\\Tannu 2\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\Tannu 3\\Form2.Designer.cs",
               "RelativeToolTip": "Form2.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -169,20 +165,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 2\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 3\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\malli\\source\\Tannu 2\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "RelativeToolTip": "..\\Tannu 2\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T23:49:31.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Register.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 2\\Register.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 3\\Register.cs",
               "RelativeDocumentMoniker": "Register.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Cafe_Studio02\\s7\\Register.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\User\\source\\repos\\Cafe_Studio02\\s7\\Register.cs [Design]",
@@ -191,11 +187,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Register.cs",
-              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 2\\Register.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 3\\Register.cs",
               "RelativeDocumentMoniker": "Register.cs",
-              "ToolTip": "C:\\Users\\malli\\source\\Tannu 2\\Register.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\Tannu 3\\Register.cs",
               "RelativeToolTip": "Register.cs",
               "ViewState": "AQIAADYAAAAAAAAAAAAowGAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -203,9 +199,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 2\\login.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 3\\login.cs",
               "RelativeDocumentMoniker": "login.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Cafe_Studio02\\s7\\login.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\User\\source\\repos\\Cafe_Studio02\\s7\\login.cs [Design]",
@@ -214,11 +210,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "login.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 2\\login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 3\\login.Designer.cs",
               "RelativeDocumentMoniker": "login.Designer.cs",
-              "ToolTip": "C:\\Users\\malli\\source\\Tannu 2\\login.Designer.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\Tannu 3\\login.Designer.cs",
               "RelativeToolTip": "login.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -226,9 +222,9 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Form7.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 2\\Form7.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 3\\Form7.cs",
               "RelativeDocumentMoniker": "Form7.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Cafe_Studio02\\s7\\Form7.cs [Design]",
               "RelativeToolTip": "..\\..\\..\\User\\source\\repos\\Cafe_Studio02\\s7\\Form7.cs [Design]",
@@ -237,11 +233,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 3\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\malli\\source\\Tannu 2\\Program.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\Tannu 3\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -249,56 +245,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Form2.resx",
-              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 2\\Form2.resx",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 3\\Form2.resx",
               "RelativeDocumentMoniker": "Form2.resx",
-              "ToolTip": "C:\\Users\\malli\\source\\Tannu 2\\Form2.resx",
+              "ToolTip": "C:\\Users\\malli\\source\\Tannu 3\\Form2.resx",
               "RelativeToolTip": "Form2.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2024-05-27T23:50:38.638Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Reward.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 2\\Reward.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 3\\Reward.cs",
               "RelativeDocumentMoniker": "Reward.cs",
-              "ToolTip": "C:\\Users\\malli\\source\\Tannu 2\\Reward.cs [Design]",
+              "ToolTip": "C:\\Users\\malli\\source\\Tannu 3\\Reward.cs [Design]",
               "RelativeToolTip": "Reward.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T21:31:34.21Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-30T21:31:34.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "login.resx",
-              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 2\\login.resx",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 3\\login.resx",
               "RelativeDocumentMoniker": "login.resx",
-              "ToolTip": "C:\\Users\\malli\\source\\Tannu 2\\login.resx",
+              "ToolTip": "C:\\Users\\malli\\source\\Tannu 3\\login.resx",
               "RelativeToolTip": "login.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2024-06-02T14:22:08.334Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 0,
               "Title": "Promotional.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 2\\Promotional.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 3\\Promotional.cs",
               "RelativeDocumentMoniker": "Promotional.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\Promotional.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\User\\source\\repos\\Promotional.cs [Design]",
+              "ToolTip": "C:\\Users\\malli\\source\\Tannu 3\\Promotional.cs [Design]",
+              "RelativeToolTip": "Promotional.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T21:32:13.716Z"
+              "WhenOpened": "2024-05-30T21:32:13.716Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Reward.cs",
-              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 2\\Reward.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Tannu 3\\Reward.cs",
               "RelativeDocumentMoniker": "Reward.cs",
-              "ToolTip": "C:\\Users\\malli\\source\\Tannu 2\\Reward.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\Tannu 3\\Reward.cs",
               "RelativeToolTip": "Reward.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
