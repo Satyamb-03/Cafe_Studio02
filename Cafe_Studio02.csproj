@@ -142,6 +142,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="c 1.jpg" />
+    <None Include="Resources\cof back.jpg" />
     <None Include="Resources\seasonal delicious 3.jpeg" />
     <None Include="Resources\Seasonal delicious2 .jpeg" />
     <None Include="Resources\Seasonal delicious.jpeg" />

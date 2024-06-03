@@ -30,8 +30,6 @@
         {
             this.home_button = new System.Windows.Forms.Button();
             this.menu_button = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
@@ -45,6 +43,8 @@
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.button3 = new System.Windows.Forms.Button();
+            this.Contactus = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -53,47 +53,30 @@
             // 
             // home_button
             // 
-            this.home_button.Font = new System.Drawing.Font("Bookman Old Style", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.home_button.Location = new System.Drawing.Point(562, 0);
+            this.home_button.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.home_button.Location = new System.Drawing.Point(499, 0);
             this.home_button.Name = "home_button";
-            this.home_button.Size = new System.Drawing.Size(167, 87);
+            this.home_button.Size = new System.Drawing.Size(205, 87);
             this.home_button.TabIndex = 0;
             this.home_button.Text = "Home";
             this.home_button.UseVisualStyleBackColor = true;
+            this.home_button.Click += new System.EventHandler(this.home_button_Click);
             // 
             // menu_button
             // 
-            this.menu_button.Font = new System.Drawing.Font("Bookman Old Style", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.menu_button.Location = new System.Drawing.Point(840, 0);
+            this.menu_button.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.menu_button.Location = new System.Drawing.Point(730, 0);
             this.menu_button.Name = "menu_button";
-            this.menu_button.Size = new System.Drawing.Size(143, 87);
+            this.menu_button.Size = new System.Drawing.Size(194, 87);
             this.menu_button.TabIndex = 1;
             this.menu_button.Text = "Menu";
             this.menu_button.UseVisualStyleBackColor = true;
-            // 
-            // button3
-            // 
-            this.button3.Font = new System.Drawing.Font("Bookman Old Style", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Location = new System.Drawing.Point(1087, 0);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(143, 87);
-            this.button3.TabIndex = 1;
-            this.button3.Text = "Special";
-            this.button3.UseVisualStyleBackColor = true;
-            // 
-            // button4
-            // 
-            this.button4.Font = new System.Drawing.Font("Bookman Old Style", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button4.Location = new System.Drawing.Point(1324, 0);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(143, 87);
-            this.button4.TabIndex = 1;
-            this.button4.Text = "Cart";
-            this.button4.UseVisualStyleBackColor = true;
+            this.menu_button.Click += new System.EventHandler(this.menu_button_Click);
             // 
             // label2
             // 
             this.label2.AutoSize = true;
+            this.label2.BackColor = System.Drawing.Color.SeaShell;
             this.label2.Font = new System.Drawing.Font("Impact", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.Teal;
             this.label2.Location = new System.Drawing.Point(72, 137);
@@ -105,8 +88,9 @@
             // label3
             // 
             this.label3.AutoSize = true;
+            this.label3.BackColor = System.Drawing.Color.SeaShell;
             this.label3.Font = new System.Drawing.Font("Bookman Old Style", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(555, 127);
+            this.label3.Location = new System.Drawing.Point(580, 137);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(788, 156);
             this.label3.TabIndex = 4;
@@ -116,7 +100,7 @@
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.button1.BackColor = System.Drawing.Color.SeaShell;
             this.button1.Font = new System.Drawing.Font("Book Antiqua", 10.125F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.Location = new System.Drawing.Point(140, 728);
             this.button1.Name = "button1";
@@ -124,10 +108,11 @@
             this.button1.TabIndex = 5;
             this.button1.Text = "Add to Order";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
-            this.button2.BackColor = System.Drawing.Color.Gold;
+            this.button2.BackColor = System.Drawing.Color.SeaShell;
             this.button2.Font = new System.Drawing.Font("Book Antiqua", 10.125F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.Location = new System.Drawing.Point(687, 728);
             this.button2.Name = "button2";
@@ -138,7 +123,7 @@
             // 
             // button5
             // 
-            this.button5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.button5.BackColor = System.Drawing.Color.SeaShell;
             this.button5.Font = new System.Drawing.Font("Book Antiqua", 10.125F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button5.Location = new System.Drawing.Point(1146, 728);
             this.button5.Name = "button5";
@@ -225,13 +210,38 @@
             this.pictureBox4.TabIndex = 6;
             this.pictureBox4.TabStop = false;
             // 
+            // button3
+            // 
+            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.Location = new System.Drawing.Point(951, 0);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(194, 87);
+            this.button3.TabIndex = 10;
+            this.button3.Text = "Login/registeration";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click_1);
+            // 
+            // Contactus
+            // 
+            this.Contactus.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Contactus.Location = new System.Drawing.Point(1174, 0);
+            this.Contactus.Name = "Contactus";
+            this.Contactus.Size = new System.Drawing.Size(194, 87);
+            this.Contactus.TabIndex = 11;
+            this.Contactus.Text = "Contact Us";
+            this.Contactus.UseVisualStyleBackColor = true;
+            this.Contactus.Click += new System.EventHandler(this.Contactus_Click);
+            // 
             // Promotional
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Info;
-            this.BackgroundImage = global::Cafe_Studio02.Properties.Resources.cof_back;
+            this.BackgroundImage = global::Cafe_Studio02.Properties.Resources.cof_5;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1518, 848);
+            this.Controls.Add(this.Contactus);
+            this.Controls.Add(this.button3);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label4);
@@ -245,12 +255,11 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
             this.Controls.Add(this.menu_button);
             this.Controls.Add(this.home_button);
             this.Name = "Promotional";
             this.Text = "Promotion";
+            this.Load += new System.EventHandler(this.Promotional_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
@@ -264,8 +273,6 @@
 
         private System.Windows.Forms.Button home_button;
         private System.Windows.Forms.Button menu_button;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button button1;
@@ -279,5 +286,7 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.PictureBox pictureBox4;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button Contactus;
     }
 }

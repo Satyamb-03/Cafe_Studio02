@@ -30,8 +30,6 @@
         {
             this.button_home = new System.Windows.Forms.Button();
             this.menu_button = new System.Windows.Forms.Button();
-            this.special_button = new System.Windows.Forms.Button();
-            this.cart_button = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.ordertomenu_button = new System.Windows.Forms.Button();
@@ -40,6 +38,8 @@
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.login = new System.Windows.Forms.Button();
+            this.Contactus = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -48,39 +48,23 @@
             // 
             // button_home
             // 
-            this.button_home.Location = new System.Drawing.Point(272, 30);
+            this.button_home.Location = new System.Drawing.Point(523, -1);
             this.button_home.Name = "button_home";
-            this.button_home.Size = new System.Drawing.Size(192, 84);
+            this.button_home.Size = new System.Drawing.Size(171, 61);
             this.button_home.TabIndex = 0;
             this.button_home.Text = "Home";
             this.button_home.UseVisualStyleBackColor = true;
+            this.button_home.Click += new System.EventHandler(this.button_home_Click);
             // 
             // menu_button
             // 
-            this.menu_button.Location = new System.Drawing.Point(538, 30);
+            this.menu_button.Location = new System.Drawing.Point(709, -1);
             this.menu_button.Name = "menu_button";
-            this.menu_button.Size = new System.Drawing.Size(192, 84);
+            this.menu_button.Size = new System.Drawing.Size(171, 61);
             this.menu_button.TabIndex = 1;
             this.menu_button.Text = "Menu";
             this.menu_button.UseVisualStyleBackColor = true;
-            // 
-            // special_button
-            // 
-            this.special_button.Location = new System.Drawing.Point(813, 30);
-            this.special_button.Name = "special_button";
-            this.special_button.Size = new System.Drawing.Size(192, 84);
-            this.special_button.TabIndex = 2;
-            this.special_button.Text = "Special";
-            this.special_button.UseVisualStyleBackColor = true;
-            // 
-            // cart_button
-            // 
-            this.cart_button.Location = new System.Drawing.Point(1103, 30);
-            this.cart_button.Name = "cart_button";
-            this.cart_button.Size = new System.Drawing.Size(91, 84);
-            this.cart_button.TabIndex = 3;
-            this.cart_button.Text = "Cart";
-            this.cart_button.UseVisualStyleBackColor = true;
+            this.menu_button.Click += new System.EventHandler(this.menu_button_Click);
             // 
             // label1
             // 
@@ -147,7 +131,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::Cafe_Studio02.Properties.Resources.cof_5;
+            this.pictureBox1.Image = global::Cafe_Studio02.Properties.Resources.C3;
             this.pictureBox1.Location = new System.Drawing.Point(12, 170);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(329, 284);
@@ -165,13 +149,36 @@
             this.pictureBox4.TabIndex = 12;
             this.pictureBox4.TabStop = false;
             // 
+            // login
+            // 
+            this.login.Location = new System.Drawing.Point(886, -1);
+            this.login.Name = "login";
+            this.login.Size = new System.Drawing.Size(171, 61);
+            this.login.TabIndex = 13;
+            this.login.Text = "Login/Registeration";
+            this.login.UseVisualStyleBackColor = true;
+            this.login.Click += new System.EventHandler(this.login_Click);
+            // 
+            // Contactus
+            // 
+            this.Contactus.Location = new System.Drawing.Point(1063, -1);
+            this.Contactus.Name = "Contactus";
+            this.Contactus.Size = new System.Drawing.Size(171, 61);
+            this.Contactus.TabIndex = 14;
+            this.Contactus.Text = "Contact Us";
+            this.Contactus.UseVisualStyleBackColor = true;
+            this.Contactus.Click += new System.EventHandler(this.button1_Click);
+            // 
             // Reward
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Info;
+            this.BackgroundImage = global::Cafe_Studio02.Properties.Resources.cof_5;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1246, 925);
+            this.Controls.Add(this.Contactus);
+            this.Controls.Add(this.login);
             this.Controls.Add(this.pictureBox4);
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.label3);
@@ -180,8 +187,6 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.cart_button);
-            this.Controls.Add(this.special_button);
             this.Controls.Add(this.menu_button);
             this.Controls.Add(this.button_home);
             this.Name = "Reward";
@@ -200,8 +205,6 @@
 
         private System.Windows.Forms.Button button_home;
         private System.Windows.Forms.Button menu_button;
-        private System.Windows.Forms.Button special_button;
-        private System.Windows.Forms.Button cart_button;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.Label label1;
@@ -210,5 +213,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.PictureBox pictureBox3;
         private System.Windows.Forms.PictureBox pictureBox4;
+        private System.Windows.Forms.Button login;
+        private System.Windows.Forms.Button Contactus;
     }
 }
