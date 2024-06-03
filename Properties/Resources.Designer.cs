@@ -63,6 +63,16 @@ namespace Cafe_Studio02.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap buy_9_get {
+            get {
+                object obj = ResourceManager.GetObject("buy 9 get", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap c_1 {
             get {
                 object obj = ResourceManager.GetObject("c 1", resourceCulture);
@@ -76,6 +86,26 @@ namespace Cafe_Studio02.Properties {
         internal static System.Drawing.Bitmap C3 {
             get {
                 object obj = ResourceManager.GetObject("C3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap cof_5 {
+            get {
+                object obj = ResourceManager.GetObject("cof 5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap cof3 {
+            get {
+                object obj = ResourceManager.GetObject("cof3", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

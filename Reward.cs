@@ -21,5 +21,15 @@ namespace Cafe_Studio02
         {
 
         }
+
+        private void ordertomenu_button_Click(object sender, EventArgs e)
+        {
+            Menu form2 = new Menu();
+
+            // Show the menu form
+            form2.Show();
+
+            Program.SwitchForm(this, form2);
+        }
     }
 }
