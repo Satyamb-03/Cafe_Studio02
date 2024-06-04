@@ -6,17 +6,29 @@ using System.Windows.Forms;
 
 namespace Cafe_Studio02
 {
-    internal static class Program
+    static class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
+        private static Form mainForm;
+
         [STAThread]
         static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+
+            // Run the main form (Form1 initially)
+            mainForm = new Form1();
+            Application.Run(mainForm);
+        }
+
+        public static void SwitchForm(Form currentForm, Form newForm)
+        {
+            // Hide the current form
+            currentForm.Hide();
+
+            // Show the new form
+            newForm.FormClosed += (s, args) => currentForm.Show(); // Show the previous form when the new form is closed
+            newForm.Show();
         }
     }
 }
