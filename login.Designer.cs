@@ -31,8 +31,8 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.loginusernmae = new System.Windows.Forms.TextBox();
-            this.password = new System.Windows.Forms.TextBox();
+            this.usernametxt = new System.Windows.Forms.TextBox();
+            this.passwordtxt = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.loginbutton = new System.Windows.Forms.Button();
@@ -80,21 +80,22 @@
             this.label2.Text = "Password";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
-            // loginusernmae
+            // usernametxt
             // 
-            this.loginusernmae.Location = new System.Drawing.Point(253, 113);
-            this.loginusernmae.Name = "loginusernmae";
-            this.loginusernmae.Size = new System.Drawing.Size(100, 20);
-            this.loginusernmae.TabIndex = 4;
-            this.loginusernmae.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            this.usernametxt.AcceptsTab = true;
+            this.usernametxt.Location = new System.Drawing.Point(253, 113);
+            this.usernametxt.Name = "usernametxt";
+            this.usernametxt.Size = new System.Drawing.Size(100, 20);
+            this.usernametxt.TabIndex = 4;
+            this.usernametxt.TextChanged += new System.EventHandler(this.username_TextChanged);
             // 
-            // password
+            // passwordtxt
             // 
-            this.password.Location = new System.Drawing.Point(253, 151);
-            this.password.Name = "password";
-            this.password.Size = new System.Drawing.Size(100, 20);
-            this.password.TabIndex = 5;
-            this.password.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
+            this.passwordtxt.Location = new System.Drawing.Point(253, 151);
+            this.passwordtxt.Name = "passwordtxt";
+            this.passwordtxt.Size = new System.Drawing.Size(100, 20);
+            this.passwordtxt.TabIndex = 5;
+            this.passwordtxt.TextChanged += new System.EventHandler(this.password_TextChanged);
             // 
             // label4
             // 
@@ -135,7 +136,7 @@
             this.loginbutton.TabIndex = 9;
             this.loginbutton.Text = "Login";
             this.loginbutton.UseVisualStyleBackColor = false;
-            this.loginbutton.Click += new System.EventHandler(this.button1_Click);
+            this.loginbutton.Click += new System.EventHandler(this.loginbutton_Click);
             // 
             // login
             // 
@@ -147,8 +148,8 @@
             this.Controls.Add(this.loginbutton);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.password);
-            this.Controls.Add(this.loginusernmae);
+            this.Controls.Add(this.passwordtxt);
+            this.Controls.Add(this.usernametxt);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label1);
@@ -165,8 +166,8 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox loginusernmae;
-        private System.Windows.Forms.TextBox password;
+        private System.Windows.Forms.TextBox usernametxt;
+        private System.Windows.Forms.TextBox passwordtxt;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Button loginbutton;

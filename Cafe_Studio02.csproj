@@ -152,6 +152,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="c 1.jpg" />
+    <Content Include="userinfo.txt" />
     <None Include="Resources\donut.jpeg" />
     <None Include="Resources\Chilli chips.jpeg" />
     <None Include="Resources\Cheese chips.jpeg" />
