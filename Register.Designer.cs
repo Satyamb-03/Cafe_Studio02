@@ -45,7 +45,7 @@
             this.contacttxt = new System.Windows.Forms.TextBox();
             this.mailtxt = new System.Windows.Forms.TextBox();
             this.agetxt = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.registerButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -210,17 +210,18 @@
             this.agetxt.TabIndex = 16;
             this.agetxt.TextChanged += new System.EventHandler(this.agetxt_TextChanged);
             // 
-            // button1
+            // registerButton
             // 
-            this.button1.BackColor = System.Drawing.Color.Black;
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(164, 327);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 17;
-            this.button1.Text = "Confirm";
-            this.button1.UseVisualStyleBackColor = false;
+            this.registerButton.BackColor = System.Drawing.Color.Black;
+            this.registerButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.registerButton.ForeColor = System.Drawing.Color.White;
+            this.registerButton.Location = new System.Drawing.Point(164, 327);
+            this.registerButton.Name = "registerButton";
+            this.registerButton.Size = new System.Drawing.Size(75, 23);
+            this.registerButton.TabIndex = 17;
+            this.registerButton.Text = "Confirm";
+            this.registerButton.UseVisualStyleBackColor = false;
+            this.registerButton.Click += new System.EventHandler(this.registerButton_Click);
             // 
             // Register
             // 
@@ -229,7 +230,7 @@
             this.BackgroundImage = global::Cafe_Studio02.Properties.Resources.c_1;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(517, 450);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.registerButton);
             this.Controls.Add(this.agetxt);
             this.Controls.Add(this.mailtxt);
             this.Controls.Add(this.contacttxt);
@@ -274,6 +275,6 @@
         private System.Windows.Forms.TextBox contacttxt;
         private System.Windows.Forms.TextBox mailtxt;
         private System.Windows.Forms.TextBox agetxt;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button registerButton;
     }
 }
