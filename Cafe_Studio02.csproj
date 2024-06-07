@@ -46,6 +46,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cart.cs" />
+    <Compile Include="CartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CartForm.Designer.cs">
+      <DependentUpon>CartForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -57,12 +64,6 @@
     </Compile>
     <Compile Include="Form2.Designer.cs">
       <DependentUpon>Form2.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Form4.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form4.Designer.cs">
-      <DependentUpon>Form4.cs</DependentUpon>
     </Compile>
     <Compile Include="Form7.cs">
       <SubType>Form</SubType>
@@ -96,20 +97,23 @@
     <Compile Include="Reward.Designer.cs">
       <DependentUpon>Reward.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="CartForm.resx">
+      <DependentUpon>CartForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form2.resx">
       <DependentUpon>Form2.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form4.resx">
-      <DependentUpon>Form4.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Form7.resx">
       <DependentUpon>Form7.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="login.resx">
       <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Promotional.resx">
+      <DependentUpon>Promotional.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -148,6 +152,30 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="c 1.jpg" />
+    <None Include="Resources\donut.jpeg" />
+    <None Include="Resources\Chilli chips.jpeg" />
+    <None Include="Resources\Cheese chips.jpeg" />
+    <None Include="Resources\Chicken chips.jpeg" />
+    <None Include="Resources\Eggs Benedict.jpeg" />
+    <None Include="Resources\Dilmah tea.jpeg" />
+    <None Include="Resources\espresso.jpeg" />
+    <None Include="Resources\kidsfluffy.jpeg" />
+    <None Include="Resources\ice coffe.jpeg" />
+    <None Include="Resources\Flate white.png" />
+    <None Include="Resources\long shot.png" />
+    <None Include="Resources\chai latte.png" />
+    <None Include="Resources\hotchocolate1.png" />
+    <None Include="Resources\hotchocolate.png" />
+    <None Include="Resources\cafe latte.png" />
+    <None Include="Resources\cappuccino.jpg" />
+    <None Include="Resources\cof back.jpg" />
+    <None Include="Resources\seasonal delicious 3.jpeg" />
+    <None Include="Resources\Seasonal delicious2 .jpeg" />
+    <None Include="Resources\Seasonal delicious.jpeg" />
+    <None Include="Resources\seasonal delicious4.jpeg" />
+    <None Include="Resources\buy 9 get.jpeg" />
+    <None Include="Resources\cof3.jpeg" />
+    <None Include="Resources\cof 5.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
