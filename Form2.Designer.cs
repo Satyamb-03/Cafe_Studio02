@@ -63,6 +63,7 @@
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
+            this.buttonCart = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -85,7 +86,7 @@
             // 
             this.Home.BackColor = System.Drawing.Color.SeaShell;
             this.Home.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Home.Location = new System.Drawing.Point(248, 10);
+            this.Home.Location = new System.Drawing.Point(375, 12);
             this.Home.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Home.Name = "Home";
             this.Home.Size = new System.Drawing.Size(100, 42);
@@ -98,7 +99,7 @@
             // 
             this.Promotional.BackColor = System.Drawing.Color.SeaShell;
             this.Promotional.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Promotional.Location = new System.Drawing.Point(543, 11);
+            this.Promotional.Location = new System.Drawing.Point(641, 9);
             this.Promotional.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Promotional.Name = "Promotional";
             this.Promotional.Size = new System.Drawing.Size(115, 44);
@@ -293,7 +294,7 @@
             // 
             this.login.BackColor = System.Drawing.Color.SeaShell;
             this.login.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.login.Location = new System.Drawing.Point(374, 11);
+            this.login.Location = new System.Drawing.Point(481, 12);
             this.login.Name = "login";
             this.login.Size = new System.Drawing.Size(143, 41);
             this.login.TabIndex = 19;
@@ -305,7 +306,7 @@
             // 
             this.Reward.BackColor = System.Drawing.Color.SeaShell;
             this.Reward.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Reward.Location = new System.Drawing.Point(686, 13);
+            this.Reward.Location = new System.Drawing.Point(762, 11);
             this.Reward.Name = "Reward";
             this.Reward.Size = new System.Drawing.Size(112, 42);
             this.Reward.TabIndex = 20;
@@ -478,6 +479,18 @@
             this.label6.Text = "Donuts\r\n $13";
             this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
+            // buttonCart
+            // 
+            this.buttonCart.BackColor = System.Drawing.Color.SeaShell;
+            this.buttonCart.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonCart.Location = new System.Drawing.Point(880, 8);
+            this.buttonCart.Name = "buttonCart";
+            this.buttonCart.Size = new System.Drawing.Size(112, 42);
+            this.buttonCart.TabIndex = 36;
+            this.buttonCart.Text = "Open Cart";
+            this.buttonCart.UseVisualStyleBackColor = false;
+            this.buttonCart.Click += new System.EventHandler(this.buttonCart_Click);
+            // 
             // Menu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -486,6 +499,7 @@
             this.BackgroundImage = global::Cafe_Studio02.Properties.Resources.c_1;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1004, 528);
+            this.Controls.Add(this.buttonCart);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
@@ -583,5 +597,6 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Button buttonCart;
     }
 }
