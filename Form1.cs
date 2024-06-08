@@ -1,4 +1,9 @@
-﻿using System;
+﻿// Satyam Bhatt
+// ===========================
+// Cafe Desktop App
+// Studio 02
+// Home Page
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -26,8 +31,8 @@ namespace Cafe_Studio02
         {
             Menu form2 = new Menu();
 
-            // Show the new form
-            form2.Show();
+            
+            form2.Show();// Shows the new form.
 
             Program.SwitchForm(this, form2);
 
@@ -36,8 +41,8 @@ namespace Cafe_Studio02
         private void button3_Click(object sender, EventArgs e)
         {
             login form4 = new login();
-            form4.Show();
-            
+            form4.Show();// Shows the new form.
+
             Program.SwitchForm(this, form4);
 
         }
@@ -45,7 +50,7 @@ namespace Cafe_Studio02
         private void button1_Click(object sender, EventArgs e)
         {
             Form7 form7= new Form7();
-            form7.Show();
+            form7.Show();// Shows the new form.
 
             Program.SwitchForm(this, form7);
 
@@ -59,7 +64,7 @@ namespace Cafe_Studio02
         private void Rewards_Click(object sender, EventArgs e)
         {
             Reward form=new Reward();
-            form.Show();
+            form.Show();// Shows the new form.
 
             Program.SwitchForm(this, form); 
         }
