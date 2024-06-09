@@ -43,7 +43,7 @@ namespace Cafe_Studio02
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Menu form2= new Menu();
+            Promotional form2= new Promotional();
             form2.Show();// Shows the new form.
 
             Program.SwitchForm(this, form2);
