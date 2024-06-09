@@ -63,7 +63,7 @@ namespace Cafe_Studio02
 
         private void Rewards_Click(object sender, EventArgs e)
         {
-            Reward form=new Reward();
+            Promotional form=new Promotional();
             form.Show();// Shows the new form.
 
             Program.SwitchForm(this, form); 
