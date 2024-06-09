@@ -47,7 +47,6 @@
             this.dilmahTea = new System.Windows.Forms.Label();
             this.kidsFluffy = new System.Windows.Forms.Label();
             this.login = new System.Windows.Forms.Button();
-            this.Reward = new System.Windows.Forms.Button();
             this.pictureBox9 = new System.Windows.Forms.PictureBox();
             this.iceCoffee = new System.Windows.Forms.Label();
             this.espresso = new System.Windows.Forms.Label();
@@ -86,7 +85,7 @@
             // 
             this.Home.BackColor = System.Drawing.Color.SeaShell;
             this.Home.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Home.Location = new System.Drawing.Point(375, 12);
+            this.Home.Location = new System.Drawing.Point(516, -1);
             this.Home.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Home.Name = "Home";
             this.Home.Size = new System.Drawing.Size(100, 42);
@@ -99,7 +98,7 @@
             // 
             this.Promotional.BackColor = System.Drawing.Color.SeaShell;
             this.Promotional.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Promotional.Location = new System.Drawing.Point(641, 9);
+            this.Promotional.Location = new System.Drawing.Point(771, -4);
             this.Promotional.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Promotional.Name = "Promotional";
             this.Promotional.Size = new System.Drawing.Size(115, 44);
@@ -294,7 +293,7 @@
             // 
             this.login.BackColor = System.Drawing.Color.SeaShell;
             this.login.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.login.Location = new System.Drawing.Point(481, 12);
+            this.login.Location = new System.Drawing.Point(622, -1);
             this.login.Name = "login";
             this.login.Size = new System.Drawing.Size(143, 41);
             this.login.TabIndex = 19;
@@ -302,22 +301,10 @@
             this.login.UseVisualStyleBackColor = false;
             this.login.Click += new System.EventHandler(this.login_Click);
             // 
-            // Reward
-            // 
-            this.Reward.BackColor = System.Drawing.Color.SeaShell;
-            this.Reward.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Reward.Location = new System.Drawing.Point(762, 11);
-            this.Reward.Name = "Reward";
-            this.Reward.Size = new System.Drawing.Size(112, 42);
-            this.Reward.TabIndex = 20;
-            this.Reward.Text = "Reward";
-            this.Reward.UseVisualStyleBackColor = false;
-            this.Reward.Click += new System.EventHandler(this.Reward_Click);
-            // 
             // pictureBox9
             // 
             this.pictureBox9.Image = global::Cafe_Studio02.Properties.Resources.logo;
-            this.pictureBox9.Location = new System.Drawing.Point(3, 8);
+            this.pictureBox9.Location = new System.Drawing.Point(-1, -1);
             this.pictureBox9.Name = "pictureBox9";
             this.pictureBox9.Size = new System.Drawing.Size(112, 68);
             this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -331,9 +318,9 @@
             this.iceCoffee.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.iceCoffee.Location = new System.Drawing.Point(722, 186);
             this.iceCoffee.Name = "iceCoffee";
-            this.iceCoffee.Size = new System.Drawing.Size(76, 36);
+            this.iceCoffee.Size = new System.Drawing.Size(85, 36);
             this.iceCoffee.TabIndex = 22;
-            this.iceCoffee.Text = "Ice Coffe\r\ne   $8";
+            this.iceCoffee.Text = "Ice Coffee\r\n     $8";
             this.iceCoffee.Click += new System.EventHandler(this.label1_Click);
             // 
             // espresso
@@ -483,7 +470,7 @@
             // 
             this.buttonCart.BackColor = System.Drawing.Color.SeaShell;
             this.buttonCart.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonCart.Location = new System.Drawing.Point(880, 8);
+            this.buttonCart.Location = new System.Drawing.Point(892, -4);
             this.buttonCart.Name = "buttonCart";
             this.buttonCart.Size = new System.Drawing.Size(112, 42);
             this.buttonCart.TabIndex = 36;
@@ -515,7 +502,6 @@
             this.Controls.Add(this.espresso);
             this.Controls.Add(this.iceCoffee);
             this.Controls.Add(this.pictureBox9);
-            this.Controls.Add(this.Reward);
             this.Controls.Add(this.login);
             this.Controls.Add(this.kidsFluffy);
             this.Controls.Add(this.dilmahTea);
@@ -581,7 +567,6 @@
         private System.Windows.Forms.Label dilmahTea;
         private System.Windows.Forms.Label kidsFluffy;
         private System.Windows.Forms.Button login;
-        private System.Windows.Forms.Button Reward;
         private System.Windows.Forms.PictureBox pictureBox9;
         private System.Windows.Forms.Label iceCoffee;
         private System.Windows.Forms.Label espresso;
