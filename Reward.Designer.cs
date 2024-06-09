@@ -70,7 +70,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Bookman Old Style", 13.875F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(404, 170);
+            this.label1.Location = new System.Drawing.Point(347, 79);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(759, 88);
             this.label1.TabIndex = 7;
@@ -86,6 +86,7 @@
             this.label2.TabIndex = 8;
             this.label2.Text = "\"Join our Rewards program! \r\nMake a order today and enjoy a complimentary coffee " +
     "on us as a\r\n thank you for your loyalty!";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // ordertomenu_button
             // 
@@ -174,7 +175,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Info;
-            this.BackgroundImage = global::Cafe_Studio02.Properties.Resources.cof_5;
+            this.BackgroundImage = global::Cafe_Studio02.Properties.Resources.c_1;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1246, 925);
             this.Controls.Add(this.Contactus);
