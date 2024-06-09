@@ -1,97 +1,97 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\",
+  "WorkspaceRootPath": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|c:\\users\\pc\\source\\repos\\cafe_studio02group1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\cartform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:cartform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\promotional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:promotional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\promotional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\promotional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:promotional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\promotional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:promotional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|c:\\users\\malli\\source\\repos\\cafe_studio02\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\cartform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:cartform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\form2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\form2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:form2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\login.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\login.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{39ADE702-7288-4B5A-BE51-2B5C270EE9DE}|Cafe_Studio02.csproj|solutionrelative:login.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
@@ -102,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,57 +114,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CartForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\CartForm.cs",
-              "RelativeDocumentMoniker": "CartForm.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\CartForm.cs [Design]",
-              "RelativeToolTip": "CartForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T01:29:52.19Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Reward.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Reward.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Reward.cs",
               "RelativeDocumentMoniker": "Reward.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Reward.cs [Design]",
+              "ToolTip": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Reward.cs [Design]",
               "RelativeToolTip": "Reward.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T21:31:34.21Z"
+              "WhenOpened": "2024-05-30T21:31:34.21Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CartForm.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\CartForm.cs",
-              "RelativeDocumentMoniker": "CartForm.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\CartForm.cs",
-              "RelativeToolTip": "CartForm.cs",
-              "ViewState": "AQIAAHsAAAAAAAAAAAAuwIoAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T01:30:29.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Cart.cs",
-              "RelativeDocumentMoniker": "Cart.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Cart.cs",
-              "RelativeToolTip": "Cart.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAkwEcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T01:28:31.78Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Form2.cs [Design]",
+              "ToolTip": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Form2.cs [Design]",
               "RelativeToolTip": "Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T23:50:56.898Z",
@@ -172,48 +138,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Form2.cs",
-              "RelativeToolTip": "Form2.cs",
-              "ViewState": "AQIAAH4AAAAAAAAAAAArwJEAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T23:50:32.643Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CartForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\CartForm.Designer.cs",
-              "RelativeDocumentMoniker": "CartForm.Designer.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\CartForm.Designer.cs",
-              "RelativeToolTip": "CartForm.Designer.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAUwD0AAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T01:50:11.483Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Form2.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Form2.Designer.cs",
               "RelativeDocumentMoniker": "Form2.Designer.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Form2.Designer.cs",
               "RelativeToolTip": "Form2.Designer.cs",
-              "ViewState": "AQIAAOgBAAAAAAAAAAAAwO0BAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T23:50:35.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Form7.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Form7.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Form7.cs",
               "RelativeDocumentMoniker": "Form7.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Form7.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Form7.cs",
               "RelativeToolTip": "Form7.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAAEwDEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -221,22 +163,123 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\Cafe_Studio\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\Cafe_Studio\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T23:49:31.263Z"
+              "WhenOpened": "2024-05-27T23:49:31.263Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 0,
+              "Title": "Promotional.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Promotional.cs",
+              "RelativeDocumentMoniker": "Promotional.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Promotional.cs [Design]",
+              "RelativeToolTip": "Promotional.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:32:13.716Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\CartForm.cs",
+              "RelativeDocumentMoniker": "CartForm.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\CartForm.cs [Design]",
+              "RelativeToolTip": "CartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T01:29:52.19Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reward.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Reward.cs",
+              "RelativeDocumentMoniker": "Reward.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Reward.cs",
+              "RelativeToolTip": "Reward.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA5wEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:45:36.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Promotional.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Promotional.cs",
+              "RelativeDocumentMoniker": "Promotional.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Promotional.cs",
+              "RelativeToolTip": "Promotional.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwDAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T21:18:44.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\CartForm.Designer.cs",
+              "RelativeDocumentMoniker": "CartForm.Designer.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\CartForm.Designer.cs",
+              "RelativeToolTip": "CartForm.Designer.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAUwD0AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T01:50:11.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAArwJEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T23:50:32.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Cart.cs",
+              "RelativeDocumentMoniker": "Cart.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Cart.cs",
+              "RelativeToolTip": "Cart.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T01:28:31.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartForm.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\CartForm.cs",
+              "RelativeDocumentMoniker": "CartForm.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\CartForm.cs",
+              "RelativeToolTip": "CartForm.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAuwIoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T01:30:29.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Register.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Register.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Register.cs",
               "RelativeDocumentMoniker": "Register.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Register.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Register.cs",
               "RelativeToolTip": "Register.cs",
               "ViewState": "AQIAADYAAAAAAAAAAAAowGAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -244,34 +287,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Form1.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAApwD8AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T00:06:48.001Z"
+              "WhenOpened": "2024-06-03T00:06:48.001Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "Register.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Register.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Register.cs",
               "RelativeDocumentMoniker": "Register.cs",
               "ToolTip": "C:\\Users\\malli\\source\\Tannu 4\\Register.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\malli\\source\\Tannu 4\\Register.cs [Design]",
+              "RelativeToolTip": "..\\..\\Tannu 4\\Register.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T14:44:05.086Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "login.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\login.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\login.cs",
               "RelativeDocumentMoniker": "login.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\login.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\login.cs",
               "RelativeToolTip": "login.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -279,45 +323,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Promotional.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Promotional.cs",
-              "RelativeDocumentMoniker": "Promotional.cs",
-              "ToolTip": "C:\\Users\\malli\\source\\Tannu 4\\Promotional.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\malli\\source\\Tannu 4\\Promotional.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T21:32:13.716Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Promotional.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Promotional.cs",
-              "RelativeDocumentMoniker": "Promotional.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Promotional.cs",
-              "RelativeToolTip": "Promotional.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAwDkAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T21:18:44.623Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\login.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\login.cs",
               "RelativeDocumentMoniker": "login.cs",
               "ToolTip": "C:\\Users\\malli\\source\\Tannu 4\\login.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\malli\\source\\Tannu 4\\login.cs [Design]",
+              "RelativeToolTip": "..\\..\\Tannu 4\\login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T11:46:39.769Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "login.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\login.Designer.cs",
               "RelativeDocumentMoniker": "login.Designer.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\login.Designer.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\login.Designer.cs",
               "RelativeToolTip": "login.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -325,22 +346,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "Form7.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Form7.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Form7.cs",
               "RelativeDocumentMoniker": "Form7.cs",
               "ToolTip": "C:\\Users\\pc\\source\\Cafe_Studio\\Form7.cs [Design]",
-              "RelativeToolTip": "..\\..\\Cafe_Studio\\Form7.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\pc\\source\\Cafe_Studio\\Form7.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T11:28:05.771Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Program.cs",
+              "ToolTip": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -350,9 +371,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "Form2.resx",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Form2.resx",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Form2.resx",
               "RelativeDocumentMoniker": "Form2.resx",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Form2.resx",
+              "ToolTip": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\Form2.resx",
               "RelativeToolTip": "Form2.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2024-05-27T23:50:38.638Z",
@@ -362,24 +383,12 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "login.resx",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\login.resx",
+              "DocumentMoniker": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\login.resx",
               "RelativeDocumentMoniker": "login.resx",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\login.resx",
+              "ToolTip": "C:\\Users\\malli\\source\\Repos\\Cafe_Studio02\\login.resx",
               "RelativeToolTip": "login.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2024-06-02T14:22:08.334Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Reward.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Reward.cs",
-              "RelativeDocumentMoniker": "Reward.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\Cafe_Studio02group1\\Reward.cs",
-              "RelativeToolTip": "Reward.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAAAD0AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T02:45:36.789Z"
             }
           ]
         }

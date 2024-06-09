@@ -61,5 +61,10 @@ namespace Cafe_Studio02
             form7.Show();
             Program.SwitchForm(this, form7);
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
