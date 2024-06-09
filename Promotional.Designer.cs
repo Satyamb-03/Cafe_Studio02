@@ -112,7 +112,7 @@
             // pictureBox3
             // 
             this.pictureBox3.Image = global::Cafe_Studio02.Properties.Resources.seasonal_delicious_3;
-            this.pictureBox3.Location = new System.Drawing.Point(925, 395);
+            this.pictureBox3.Location = new System.Drawing.Point(992, 395);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(456, 271);
             this.pictureBox3.TabIndex = 8;
@@ -130,7 +130,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::Cafe_Studio02.Properties.Resources.Chilli_chips;
-            this.pictureBox1.Location = new System.Drawing.Point(597, 411);
+            this.pictureBox1.Location = new System.Drawing.Point(71, -424);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(215, 222);
             this.pictureBox1.TabIndex = 6;
@@ -162,7 +162,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Bookman Old Style", 10.125F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(1007, 669);
+            this.label5.Location = new System.Drawing.Point(1041, 669);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(251, 64);
             this.label5.TabIndex = 9;
