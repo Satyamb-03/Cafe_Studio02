@@ -11,19 +11,42 @@ namespace Cafe_Studio02
         public Register()
         {
             InitializeComponent();
+            passwordtxt.PasswordChar = '*';
+            confirmtxt.PasswordChar = '*';
+
         }
 
         private void registerButton_Click(object sender, EventArgs e)
         {
-            // Registration successful
+            // Check if any required field is empty
+            if (string.IsNullOrWhiteSpace(name.Text) ||
+                string.IsNullOrWhiteSpace(agetxt.Text) ||
+                string.IsNullOrWhiteSpace(mailtxt.Text) ||
+                string.IsNullOrWhiteSpace(contacttxt.Text) ||
+                string.IsNullOrWhiteSpace(usernametxt.Text) ||
+                string.IsNullOrWhiteSpace(passwordtxt.Text) ||
+                string.IsNullOrWhiteSpace(confirmtxt.Text))
+            {
+                MessageBox.Show("Please fill in all the fields!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return; // Exit the method to prevent further execution
+            }
+
+            // Check if passwords match
+            if (passwordtxt.Text != confirmtxt.Text)
+            {
+                MessageBox.Show("Passwords do not match!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return; // Exit the method to prevent further execution
+            }
+
             MessageBox.Show("Registration successful!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
-            login form= new login();
+            login form = new login();
             form.Show();
 
             Program.SwitchForm(this, form);
-            // Save registration data to a file
-            SaveRegistrationData(name.Text, agetxt.Text, mailtxt.Text, contacttxt.Text, username.Text, password.Text);
+
+            // Pass the current text from the textboxes to the SaveRegistrationData method
+            SaveRegistrationData(name.Text, agetxt.Text, mailtxt.Text, contacttxt.Text, usernametxt.Text, passwordtxt.Text);
         }
 
         private void SaveRegistrationData(string name, string age, string email, string contact, string username, string password)
