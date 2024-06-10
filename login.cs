@@ -16,6 +16,7 @@ namespace Cafe_Studio02
         public login()
         {
             InitializeComponent();
+            passwordtxt.PasswordChar = '*';
         }
 
         private void loginbutton_Click(object sender, EventArgs e)
@@ -25,6 +26,13 @@ namespace Cafe_Studio02
 
             if (IsLoginValid(username, password))
             {
+                // Check if username or password is empty
+                if (string.IsNullOrWhiteSpace(username) || string.IsNullOrWhiteSpace(password))
+                {
+                    MessageBox.Show("Please enter both username and password.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return; // Exit the method to prevent further execution
+                }
+
                 MessageBox.Show("Login successful!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 // Proceed with further actions after successful login
 
@@ -108,6 +116,11 @@ namespace Cafe_Studio02
         }
 
         private void password_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
         {
 
         }
