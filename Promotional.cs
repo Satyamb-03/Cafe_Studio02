@@ -34,7 +34,11 @@ namespace Cafe_Studio02
 
         private void home_button_Click(object sender, EventArgs e)
         {
+            // Create a new instance of home
+            Form1 form1 = new Form1();
+            form1.Show();
 
+            Program.SwitchForm(this, form1);
         }
 
         private void menu_button_Click(object sender, EventArgs e)
@@ -54,7 +58,7 @@ namespace Cafe_Studio02
         private void Contactus_Click(object sender, EventArgs e)
         {
             Form7 form7 = new Form7(); //Connect forms together
-            form7.Show();  //Open the contact us form
+            form7.Show();  //This opens contact us form
             Program.SwitchForm(this, form7);
         }
 

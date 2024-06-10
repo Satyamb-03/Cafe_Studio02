@@ -43,10 +43,12 @@
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.button3 = new System.Windows.Forms.Button();
             this.Contactus = new System.Windows.Forms.Button();
+            this.pictureBox5 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             this.SuspendLayout();
             // 
             // home_button
@@ -115,6 +117,7 @@
             this.pictureBox3.Location = new System.Drawing.Point(992, 395);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(456, 271);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox3.TabIndex = 8;
             this.pictureBox3.TabStop = false;
             // 
@@ -124,6 +127,7 @@
             this.pictureBox2.Location = new System.Drawing.Point(229, 411);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(189, 229);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 7;
             this.pictureBox2.TabStop = false;
             // 
@@ -213,6 +217,16 @@
             this.Contactus.UseVisualStyleBackColor = false;
             this.Contactus.Click += new System.EventHandler(this.Contactus_Click);
             // 
+            // pictureBox5
+            // 
+            this.pictureBox5.Image = global::Cafe_Studio02.Properties.Resources.Chilli_chips;
+            this.pictureBox5.Location = new System.Drawing.Point(580, 411);
+            this.pictureBox5.Name = "pictureBox5";
+            this.pictureBox5.Size = new System.Drawing.Size(209, 204);
+            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox5.TabIndex = 12;
+            this.pictureBox5.TabStop = false;
+            // 
             // Promotional
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
@@ -221,6 +235,7 @@
             this.BackgroundImage = global::Cafe_Studio02.Properties.Resources.c_1;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1518, 848);
+            this.Controls.Add(this.pictureBox5);
             this.Controls.Add(this.Contactus);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.label5);
@@ -243,6 +258,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -265,5 +281,6 @@
         private System.Windows.Forms.PictureBox pictureBox4;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button Contactus;
+        private System.Windows.Forms.PictureBox pictureBox5;
     }
 }
